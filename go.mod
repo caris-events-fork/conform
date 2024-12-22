@@ -1,4 +1,4 @@
-module github.com/YamiOdymel/conform
+module github.com/caris-events-fork/conform
 
 go 1.13
 
